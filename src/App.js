@@ -13,7 +13,7 @@ class App extends Component {
       "Sehat selalu, kurang2in ngeluh",
       "Sayang orang tua, sayang semuanya",
     ], //edit untuk kata2
-    panggilan: ["Ateu Salma"], //edit untuk panggilan
+    panggilan: ["Ateu Salma", "Kawan", "Ay", "Sahabat"], //edit untuk panggilan
     tanggal_lahir: "30/09/2003", //untuk edit tanggal lahir doi kau
     nama: "Ay♥17", //edit untuk nama di ballon, maksimal 5 kata aja xixixi
     warna: [
